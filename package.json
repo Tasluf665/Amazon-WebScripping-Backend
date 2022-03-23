@@ -1,0 +1,22 @@
+{
+  "name": "amazon-webscriping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jquery": "^3.6.0",
+    "json2csv": "^5.0.6",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}

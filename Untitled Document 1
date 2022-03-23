@@ -1,0 +1,8 @@
+let title = $('span[id="productTitle"]').textContent.trim()
+let price = $('span[class="a-offscreen"]').textContent.trim()
+let rating = $('span[class="a-icon-alt"]').textContent.trim()
+let img = $('img[id="landingImage"]').getAttribute('src')
+let shippingFee = $('span[class="a-size-base a-color-secondary"]').textContent.trim()
+
+
+common: title, pic, price, shippingFee, StockLeft, review
