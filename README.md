@@ -16,6 +16,8 @@ This is the First part (BackEnd) of this project. Second part is https://github.
 2. run "npm install" in the terminal. [It will install the node_modules folder again]
 3. then run "node index.js" in the terminal.
 
-### Watch this video on YouTube
+### Always open the backend part first and ensure that backend part always runs on port 3000. And frontend part runs on 3001. Unless you may see error.
 
-[![Watch the video](https://i.imgur.com/drQHcX8.png)](https://youtu.be/On_pHccOYw0)
+### Project Preview
+
+https://user-images.githubusercontent.com/78264660/159994932-bcc8d146-2167-4980-a70b-00558737f27b.mp4
