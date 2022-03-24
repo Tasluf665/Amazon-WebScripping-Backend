@@ -1,5 +1,5 @@
 # Amazon-WebScripping-Backend
-#This project have two part. First part is the frontend-part and the second one is the backend-part.
+# This project have two part. First part is the frontend-part and the second one is the backend-part.
 
 This is the First part (BackEnd) of this project. Second part is https://github.com/Tasluf665/Amazon-Webscripping here. My recomandation is to, First download and install this part. Then download this frontend part.
 
