@@ -15,3 +15,5 @@ This is the First part (BackEnd) of this project. Second part is https://github.
 1. Delete the node_modules folder
 2. run "npm install" in the terminal. [It will install the node_modules folder again]
 3. then run "node index.js" in the terminal.
+
+[![Watch the video](https://i.imgur.com/drQHcX8.png)](https://youtu.be/On_pHccOYw0)
